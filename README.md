@@ -5,4 +5,5 @@
 <a href="https://www.youtube.com/@alampobon6190"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 </p>
 <h3>Glade to see you here !</h3>
-<p>I'am Frontend Focused Full Stack Developer. Currently Working at Next Ventures As a Software Engineer I (Frontend).</p>
+<p>I'am Frontend Focused Full Stack Developer. Currently Working at <strong>Next Ventures</strong> As a Software Engineer I (Frontend).</p>
+<p>I have spent a significant amount of time learning about recent technologies as a self-taught developer. Additionally, I've worked on some projects utilizing JavaScript, React JS, Next JS, Tailwind, Laravel, Bootstrap, Mongodb, Express JS among other technologies.</p>
