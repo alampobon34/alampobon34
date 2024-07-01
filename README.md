@@ -15,7 +15,7 @@
     <li>🚀   I’m currently exploring MERN Stack.</li>
 </ul>
 
-### Languages and Tools:
+### Stacks That I Use For Coding:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
@@ -26,3 +26,7 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwFUT2BE7A-iOHyeSOMofREoYlmPTJFqmWw&s" alt="laravel"></code></code>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alampobon34&show_icons=true&locale=en" alt="alampobon34" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alampobon34&" alt="alampobon34" /></p>
